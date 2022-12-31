@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansar</h1>
 <h3 align="center">Full stack web developer from India</h3>
 
-<img align="right" alt="working" width="400" src="![image](https://user-images.githubusercontent.com/22356107/210135083-19d47edc-5677-4da6-8aa3-31d89869b82d.png)
-">
+<img align="right" alt="working" width="340" src="https://github.com/ansarvaseem2016/ansarvaseem2016/blob/main/For%20git%20profile.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarvaseem2016&label=Profile%20views&color=0e75b6&style=flat" alt="ansarvaseem2016" /> </p>
 
