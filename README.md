@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansar</h1>
 <h3 align="center">Full stack web developer from India</h3>
 
-<img align="right" alt="working" width="340" src="https://github.com/ansarvaseem2016/ansarvaseem2016/blob/main/programmer%20pic.png">
+<img align="right" alt="working" width="350" src="https://github.com/ansarvaseem2016/ansarvaseem2016/blob/main/programmer%20pic.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarvaseem2016&label=Profile%20views&color=0e75b6&style=flat" alt="ansarvaseem2016" /> </p>
 
