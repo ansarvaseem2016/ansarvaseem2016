@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blazor**
 
-- 💬 Ask me about **Asp.net core, REST API, SQL...**
+- 💬 Ask me about **Asp.Net Core, REST API, SQL...**
 
 - 📫 How to reach me **ansarvaseem3333@gmail.com**
 
